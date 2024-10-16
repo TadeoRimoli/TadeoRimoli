@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript and React native**
 
-- 👨‍💻 Portfolio and website coming soon...
+- 👨‍💻 Portfolio: [https://tadeorimoli.com.ar](https://tadeorimoli.com.ar)
 
 - 📫 How to reach me **tadeorimoli@gmail.com**
 
